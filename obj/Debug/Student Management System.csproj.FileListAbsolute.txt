@@ -1,0 +1,24 @@
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Home.resources
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Students.resources
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Payment.resources
+C:\Users\A-Samod\Desktop\ADMS - Assignment\ADMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.DashBoard.resources
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Home.resources
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Students.resources
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\A-Samod\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
